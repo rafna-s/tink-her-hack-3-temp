@@ -2,22 +2,23 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Trouble shooters]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Niveditha Sajeev] -[Carmel Polytechnic college]
+- Member 2: [Rafna R] - [Carmel Polytechnic College]
+- Member 3: [Archana S] - [Carmel Polytechnic College]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+["World in Wheels" is a ride-booking platform designed for wheelchair users.
+Provides accessible travel solutions across Kerala.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Not all buses,trains,ortrams are equipped with ramps or lifts,making it difficult for wheelchair users to board or alight]
 
 ### The Solution
 [How are you solving it? Keep it fun!]
