@@ -21,7 +21,7 @@ Provides accessible travel solutions across Kerala.]
 [Not all buses,trains,ortrams are equipped with ramps or lifts,making it difficult for wheelchair users to board or alight]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[]
 
 ## Technical Details
 ### Technologies/Components Used
